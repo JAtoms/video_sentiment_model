@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset/dev/dev_splits_complete" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset/test/output_repeated_splits_test" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset/train/train_splits" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 virtualenv at ~/PycharmProjects/video_sentiment_model/.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
